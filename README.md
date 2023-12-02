@@ -1,1 +1,1 @@
-# Okul
+# Amazon Clone
